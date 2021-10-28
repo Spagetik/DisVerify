@@ -1,0 +1,6 @@
+name: DisVerify
+version: '${project.version}'
+main: spagetik.testplugin.DisVerify
+api-version: 1.17
+commands:
+  disverify: {}

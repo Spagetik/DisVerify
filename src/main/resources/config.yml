@@ -1,0 +1,10 @@
+database:
+  host: 'localhost'
+  port: '3306'
+  tablename: 'dis_verify'
+  username: 'DisVerify'
+  password: 'qwerty'
+messages:
+  successful: '{player}, your verification code - §2{code}§f (Click to copy)'
+  unsuccessful: '§4There is a problem, contact the server administrator!'
+  havecode: '§cYou already have a code, you can get new code in 1 minute.'
